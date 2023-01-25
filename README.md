@@ -6,3 +6,6 @@ I learnt about value-creation in the service sector and a human-centered design 
 Final Pitch Slide Deck - ShowCase.pdf
 
 Pitch Video (Download for viewing) - Team_Showcase_Movie.mp4 
+
+ShowCase Prototype - https://www.figma.com/proto/2DfYCoTpA0vOA6gkuONisE/Poster?node-id=80%3A58&starting-point-node-id=80%3A58
+
