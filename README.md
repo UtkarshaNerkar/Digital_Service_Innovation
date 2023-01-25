@@ -4,3 +4,5 @@ A course that exposes to design thinking, service thinking, and the methods and 
 I learnt about value-creation in the service sector and a human-centered design process including brainstorming, story-boarding, interviewing, video sketches, and pitching. In a team of 4, we conceived a digital service and assessed its technical feasibility, financial viability, and desirability. We produced a plan with a business model and a video sketch and pitched it to industry professionals.
 
 Final Pitch Slide Deck - ShowCase.pdf
+
+Pitch Video (Download for viewing) - Team_Showcase_Movie.mp4 
